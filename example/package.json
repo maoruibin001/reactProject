@@ -1,0 +1,7 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "devDependencies": {
+    "webpack-merge": "^4.1.0"
+  }
+}
